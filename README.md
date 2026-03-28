@@ -30,8 +30,8 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:your@email.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://www.linkedin.com/in/msaadkhan-msk"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:msaad321h@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
@@ -59,7 +59,7 @@ C++
 ██████████████░░░░░░ 70%
 
 HTML/CSS
-████████████████░░░░ 85%
+██████████████████░░ 95%
 
 </p>
 
@@ -132,7 +132,7 @@ HTML/CSS
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=msaadk&theme=react-dark" />
 </p>
 
 ---
