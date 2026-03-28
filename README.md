@@ -20,8 +20,8 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:your@email.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://www.linkedin.com/in/msaadkhan-msk/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:msaad321h@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
