@@ -1,13 +1,23 @@
+
+
+<!-- GLITCH LINE -->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-1d7d0d5e-ecf6-4d57-9d7c-8e3c7cfe1e21.gif" width="100%" />
+</p>
+
+---
 <!-- PROFILE HEADER -->
 
 <h1 align="center">Hi 👋, I'm Muhammad Saad Khan</h1>
 <h3 align="center">🚀 AI Engineer | Web Developer | Tech Enthusiast</h3>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING EFFECT -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Smart+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&lines=AI+Developer...;Full+Stack+Developer...;Machine+Learning+Enthusiast...;Building+Smart+Solutions..." />
 </p>
+
 
 <!-- VISITOR COUNT -->
 
@@ -20,8 +30,8 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/msaadkhan-msk/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:msaad321h@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:your@email.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
@@ -32,6 +42,26 @@
 * 💡 Passionate about AI, Startups & Innovation
 * 🚀 Building real-world AI applications
 * 🔥 Always learning new technologies
+
+---
+
+## 🧑‍💻 Programming Languages
+
+<p align="center">
+
+Python
+███████████████░░░░░ 80%
+
+JavaScript
+████████████░░░░░░░░ 65%
+
+C++
+██████████████░░░░░░ 70%
+
+HTML/CSS
+████████████████░░░░ 85%
+
+</p>
 
 ---
 
@@ -53,6 +83,24 @@
 
 🔹 **ClearioTasks**
 📌 Smart productivity web app
+
+---
+
+## 🏆 Achievements
+
+* 🥇 Built multiple AI-based real-world projects
+* 🚀 Developed full-stack web applications
+* 🎯 Active learner in AI & emerging technologies
+* 💡 Working on innovative startup ideas
+
+---
+
+## 📜 Certifications
+
+* 📘 Machine Learning (Coursera / Online Platform)
+* 📗 Python for Data Science
+* 📙 Web Development Bootcamp
+* 📕 AI & Deep Learning Fundamentals
 
 ---
 
